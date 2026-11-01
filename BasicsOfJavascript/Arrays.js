@@ -17,6 +17,7 @@ const myArr2 = new Array(1,2,3,4,5)
 // console.log(typeof newArr);//bind the arr and convert it into string
 
 // console.log(arr);
+// console.log(arr);
 
 console.log("A " , arr);
 
